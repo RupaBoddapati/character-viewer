@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "simpsons_character_viewer",
+        "request": "launch",
+        "type": "dart",
+        "program": "lib/main_simpsons.dart",
+        "args": ["--flavor", "simpsons_character_viewer", "--target", "lib/main_simpsons.dart" ]
+      },
+      {
+        "name": "the_wire_character_viewer",
+        "request": "launch",
+        "type": "dart",
+        "program": "lib/main_wire.dart",
+        "args": ["--flavor", "the_wire_character_viewer", "--target", "lib/main_wire.dart" ]
+      }
+    ],
+    "compounds": []
+  }
