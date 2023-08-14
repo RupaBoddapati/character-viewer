@@ -1,8 +1,11 @@
 # Character Viewer App
 This app allows us to view the list of characters using the API from DuckDuckGo and it is written entirely using the Flutter framework, supporting both IOS and Android platforms. This supports both potrait and landscape orientations. 
 
-https://github.com/RupaBoddapati/character-viewer/assets/142184584/464852d0-d458-4796-8411-0f47bef43eed
-https://github.com/RupaBoddapati/character-viewer/assets/142184584/75f8fbe3-9c43-487b-a34c-b163ed5e6135
+https://github.com/RupaBoddapati/character-viewer/assets/142184584/bd3e4b3f-9103-4e2e-b868-9ab88aec982f
+
+https://github.com/RupaBoddapati/character-viewer/assets/142184584/195f8f73-c47d-47a8-ab1b-1732ae00f543
+
+
 
 ## Dependencies & versions
 Current Flutter version 3.3.9
